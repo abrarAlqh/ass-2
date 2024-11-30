@@ -75,9 +75,6 @@ print_r(value:$result);
                <tr>
               <td> <?php  echo $student["year"]; ?> </td>
                 </tr>
-
-              <?php
-                ?>
         </tbody>
 
     </table>   
