@@ -56,9 +56,11 @@ print_r(value:$result);
     </style>
 </head>
 <body> 
+    <h1> welcome </h1>
     <table>
         <thead>
          <tr>
+            
             <th>Year </th>
             <th>Semster  </th>
             <th>The Program </th>
