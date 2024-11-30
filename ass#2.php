@@ -73,7 +73,7 @@ if (empty($result)) {
             echo '<td>' . htmlspecialchars($student["number_of_students"] ?? 'N/A') . '</td>'; 
             echo '</tr>';
         }
-        ?> 
+        ?>  
         </tbody>
     </table>   
 </body>
