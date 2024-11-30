@@ -46,7 +46,7 @@ if (empty($result)) {
         tr:hover {
             background-color: #ddd;
         }
-    </style>
+    </style> 
 </head>
 <body> 
     <h1>Student Inforamtion</h1>
