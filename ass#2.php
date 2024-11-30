@@ -59,7 +59,7 @@ print_r(value:$result);
     <table>
         <thead>
          <tr>
-            <th>Year </th>
+            
             <th>Semster  </th>
             <th>The Program </th>
             <th>Nationality</th>
